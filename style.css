@@ -1,0 +1,43 @@
+body 
+{
+  background-color: #020e0a1c;
+  text-align: center;
+}
+h1 
+{
+  color: rgb(17, 200, 206);
+  border-style: solid;
+  border-color:rgb(3, 2, 2);  
+  border-width:2px;
+  padding: 10px;
+}
+#nome
+{
+  text-decoration: underline;
+  font-size:40px;
+  color: rgb(77, 32, 88);
+  background: white;
+}
+a
+{
+  color: blue;
+  font-size: 20px;
+  border-style: dashed;
+  border-color: darkblue;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+p{
+  color: rgb(53, 52, 150);
+  word-spacing: 10px;
+  font-variant: small-caps;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+.informacoes{
+    color: darkblue;
+    font-size: 18px;
+}
